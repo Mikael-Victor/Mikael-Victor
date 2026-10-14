@@ -7,7 +7,7 @@
 
 Explorando ideias • Criando projetos • Codando com IA
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:6D28D9,100:06B6D4&height=180&section=header&text=MKV&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=GAME%20MODE%3A%20ON&descAlignY=58&descSize=18" width="100%" alt="Banner gamer MKV"/>"Profile Views" (https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6D28D9&label=VISUALIZA%C3%87%C3%95ES)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:6D28D9,100:06B6D4&height=180&section=header&text=MKV&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=GAME%20MODE%3A%20ON&descAlignY=58&descSize=18" width="100%" alt="Banner gamer MKV"/> "Profile Views" (https://komarev.com/ghpvc/?username=Mikael-Victor&style=for-the-badge&color=6D28D9&label=VISUALIZA%C3%87%C3%95ES)
 
 </div>---
 
