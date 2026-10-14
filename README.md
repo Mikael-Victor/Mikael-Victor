@@ -20,7 +20,8 @@ Explorando ideias • Criando projetos • Codando com IA
 
 Tecnologias e ferramentas que fazem parte do meu universo de desenvolvimento:
 
-<div align="center">"Lua" (https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+<div align="center">
+  "Lua" (https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 "JavaScript" (https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 "HTML5" (https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
 "CSS3" (https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
